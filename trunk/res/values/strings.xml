@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SampleSpeechActivity!</string>
+    <string name="app_name">Speech IO</string>
+    <string name="listen_to_me">Listen To Me</string>
+    <string name="speak_to_me">Speak To Me</string>
+    <string name="text_to_speak">Text here will be spoken...</string>
+</resources>
